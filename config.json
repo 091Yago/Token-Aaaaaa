@@ -1,6 +1,6 @@
 {
     "webhook_urls": [
-        "https://discord.com/api/webhooks/1469746663378911404/plDDuU8w_PcbqP37J-eZKyJbHpAuoqAOX9td3FHxdsZXLCj3Q7FB5gB4imYPxBG__oj9"
+        "https://discord.com/api/webhooks/"
     ],
     "avatar_url": "https://imgur.com/HmoE29J",
     "embed_color": 1752220,
@@ -16,4 +16,5 @@
     "webhook_retry_count": 3,
     "webhook_retry_delay": 2.0,
     "exe_icon": "https://imgur.com/HmoE29J"
+
 }
